@@ -1,0 +1,2 @@
+[02: 34: 01] [ip]: ::ffff:127.0.0.1 - [method]: OPTIONS [url]: /api/v1/customer/get_name_all HTTP/1.1 [status]: 200 [response-time]: 32.009 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+[02: 34: 01] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/customer/get_name_all HTTP/1.1 [status]: 304 [response-time]: 15933.061 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
